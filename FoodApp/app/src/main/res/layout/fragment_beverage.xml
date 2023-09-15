@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAD84C"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beverage"
+        android:layout_centerInParent="true"
+        android:textSize="30sp"
+
+        />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="159dp"
+        android:layout_marginTop="423dp"
+        android:layout_marginEnd="177dp"
+        android:layout_marginBottom="252dp"
+        android:text="Next Fragment" />
+</RelativeLayout>

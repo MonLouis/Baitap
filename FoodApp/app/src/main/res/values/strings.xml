@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+    <string name="maindish">Main Dish</string>
+    <string name="sidedish">Side Dish</string>
+    <string name="dessertdish">Dessert Dish</string>
+    <string name="beverage">Beverage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

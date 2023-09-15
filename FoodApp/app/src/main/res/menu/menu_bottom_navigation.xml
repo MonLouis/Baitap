@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/maindish"
+        android:icon="@drawable/maindish"
+        android:title="@string/maindish"
+
+        />
+    <item
+        android:id="@+id/sidedish"
+        android:icon="@drawable/sidefood"
+        android:title="@string/sidedish"
+
+        />
+    <item
+        android:id="@+id/dessert"
+        android:icon="@drawable/dessert"
+        android:title="@string/dessertdish"
+
+        />
+    <item
+        android:id="@+id/beverage"
+        android:icon="@drawable/beverage"
+        android:title="@string/beverage" />
+</menu>
